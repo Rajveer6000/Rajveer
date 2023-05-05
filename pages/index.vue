@@ -17,7 +17,7 @@
       <div class="flex mt-24 pb-4 border-b-2 border-black">
         <div class="flex justify-start font-bold text-xl  place-content-center">
           <p class="h1">✍️</p>
-          <p class="h2">Selected Work</p>
+          <p class="h2">Selected Work rajveer </p>
 
         </div>
         <div class="flex justify-end place-content-center ml-auto">
