@@ -10,7 +10,7 @@
             a proud dog dad, and a board game enthusiast.</p>
         </div>
         <div class="object-cover ml-20">
-          <img class="rounded-lg  w-96" src="\rajveer_photo.jpeg" title="Rajveer photo">
+          <img class="rounded-lg  w-96" src="./rajveer_photo.jpeg" title="Rajveer photo">
         </div>
       </div>
       <!-- Selected Work -->
