@@ -18,7 +18,7 @@
         <div class="flex justify-start font-bold text-xl  place-content-center">
           <p class="h1">✍️</p>
           <p class="h2">Selected Work</p>
-          
+
         </div>
         <div class="flex justify-end place-content-center ml-auto">
           <a href="https://www.linkedin.com/in/rajveer-choudhary-0b2931229" target="_blank "
