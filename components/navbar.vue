@@ -9,14 +9,14 @@
       </ul>
       <ul class="text-black flex justify-end gap-7">
         <li class="px-2 font-semibold"><a href="#">Home</a></li>
-        <li class="px-2 font-semibold"><a href="#">Works</a></li>
+        <!-- <li class="px-2 font-semibold"><a href="Rajveer\pages\about.vue">About</a></li> -->
+        <NuxtLink class="px-2 font-semibold" to="Rajveer\pages\about.vue">About</NuxtLink>
         <li class="px-2 font-semibold"><a href="#">Skill's</a></li>
         <li class="px-2 font-semibold"><a href="#">Eduction</a></li>
         <!-- <li class="px-2"><a href="#">FAQs</a></li> -->
         <li class="px-2 font-semibold"><a href="#">Contect</a></li>
         <li class="px-2 font-semibold brand"><a href="#"></a></li>
       </ul>
-
     </div>
   </div>
 </template>
